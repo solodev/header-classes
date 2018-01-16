@@ -1,13 +1,12 @@
-# header-classes
-Creating fixed elements on scroll can be a difficult endeavor. With some JS and CSS, however, you can provide a fantastic UI/UX set of elements that help your users navigate or you can create a well-positioned call-to-action that follows the user as they scroll.  
-
-## Tutorial
-
-For detailed instruction's, view Solodev's [How to Create On Scroll Fixed Positioning with CSS and JS](https://www.solodev.com/blog/how-to-create-on-scroll-fixed-positioning-with-css-and-js.stml) article.
-
+## header-classes
+ How can you change the style of your headers without changing the order and still get the visual elements you want? This tutorial will show you exactly how to do that with just a bit of CSS.
+  		  
+## Tutorial		  
+ -For detailed instruction's, view Solodev's [How to Adjust Header Styles with CSS and Bootstrap](https://www.solodev.com/blog/how-to-adjust-header-styles-with-css-and-bootstrap.stml) article.
+ 
 ## Demo
-
-Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/5jkkvqzw/).
+  		  
+Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/aftrboh3/).
 
 ## HTML
 
